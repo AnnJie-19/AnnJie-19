@@ -2,7 +2,7 @@
 
 ###
 
-<h6 data-importer="text" align="left">Software Engineering · Mobile App Development · IoT</h6>
+<h3 data-importer="text" align="left">Software Engineering · Mobile App Development · IoT</h3>
 
 ###
 
